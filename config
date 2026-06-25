@@ -1,0 +1,10 @@
+width=650
+height=350
+location=top
+show=drun
+prompt=Search...
+allow_images=true
+term=foot
+insensitive=true
+hide_scroll=false
+gtk_dark=true
